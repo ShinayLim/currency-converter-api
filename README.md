@@ -1,4 +1,4 @@
-#Currency Converter
+# Currency Converter
 
 A simple currency converter web application built using HTML, CSS, and JavaScript. The app allows users to convert currencies with real-time exchange rates fetched from an API. It features a user-friendly interface with options to select the source currency, target currency, and input amount for conversion.
 
@@ -25,6 +25,7 @@ A simple currency converter web application built using HTML, CSS, and JavaScrip
 3. Start converting currencies and exploring exchange rates!
 
 **Contributing**
+
 Feel free to use, modify, and contribute to this project. Feedback and suggestions are always welcome. To contribute, follow these steps:
 
 1. Fork the repository.
@@ -34,9 +35,12 @@ Feel free to use, modify, and contribute to this project. Feedback and suggestio
 5. Create a pull request.
    
 **Credits**
-Font Awesome for the awesome icons.
-FlagCDN for the country flag images.
-License
+
+- Font Awesome for the awesome icons.
+- FlagCDN for the country flag images.
+  
+**License**
+
 This project is licensed under the MIT License.
 
 For more details, please check the project source code in the index.js and style.css files.
