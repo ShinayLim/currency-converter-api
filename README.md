@@ -4,7 +4,7 @@ A simple currency converter web application built using HTML, CSS, and JavaScrip
 
 **[View Live Demo](https://shinaylim.github.io/currency-converter-api/)**
 
-![Currency Converter Screenshot](weather-ss.png)
+![Currency Converter Screenshot](converter-ss.png)
 
 **Features**
 - Real-time exchange rate updates.
